@@ -11,9 +11,10 @@ const store = {
       completed: true,
     },
     {
-      id: "1",
+      id: "3",
       title: "Write Code",
-      completed: false,
+      completed: true,
     },
   ],
 };
+export default store;
